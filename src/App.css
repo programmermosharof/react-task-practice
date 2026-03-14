@@ -9,3 +9,10 @@
   margin: 10px;
   font-weight: bold;
 }
+.w{
+  
+  height:200px ;
+  background-color: burlywood;
+}
+.dark  { background: #222; color: white; }
+.light { background: #fff; color: black; }
